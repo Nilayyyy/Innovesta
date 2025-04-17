@@ -2,22 +2,22 @@ export const navLinks = [
   {
     id: 1,
     name: 'Events',
-    href: 'events',
+    href: '',
   },
   {
     id: 2,
     name: 'Resources',
-    href: 'resources',
+    href: '',
   },
   {
     id: 3,
     name: 'Sponsors',
-    href: 'sponsors',
+    href: '',
   },
   {
     id: 4,
     name: 'Our Team',
-    href: 'team',
+    href: '',
   },
 ];
 
